@@ -68,6 +68,10 @@
   <img src="https://img.shields.io/badge/TestNG-FFB13B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+
+
+
   <!-- Agrega aquí más iconos si quieres -->
 </p>
 
