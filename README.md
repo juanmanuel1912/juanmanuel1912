@@ -77,7 +77,7 @@
 
 ---
 
-## ⚡ My Proyects challenges:
+## ⚡ My Projects challenges:
 
 
 <p align="center">
