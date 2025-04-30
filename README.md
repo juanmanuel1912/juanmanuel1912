@@ -90,8 +90,8 @@
   <a href="https://github.com/juanmanuel1912/automation_playwright" target="_blank">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
   </a>
-    <a href="https://www.youtube.com/@Simpletesting-qa" target="_blank">
-    <img src="https://github.com/juanmanuel1912/playwright_api_automation" alt="postman"/>
+    <a href="https://github.com/juanmanuel1912/playwright_api_automation" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
   <a href="https://github.com/juanmanuel1912/selenium-ecommerce/tree/master/src" target="_blank">
     <img src="https://img.shields.io/badge/Appium-6AB4F8?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
