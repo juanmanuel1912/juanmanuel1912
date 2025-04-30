@@ -81,22 +81,22 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-manuel-paredes-goicochea/" target="project selenium">
+  <a href="https://github.com/juanmanuel1912/selenium-ecommerce/tree/master/src" target="project selenium">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   </a>
-  <a href="https://www.youtube.com/@Simpletesting-qa" target="_blank">
+  <a href="https://github.com/juanmanuel1912/playwright_api_automation" target="_blank">
     <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge" alt="rest-assured"/>
   </a>
-  <a href="https://www.linkedin.com/in/juan-manuel-paredes-goicochea/" target="_blank">
+  <a href="https://github.com/juanmanuel1912/automation_playwright" target="_blank">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
   </a>
     <a href="https://www.youtube.com/@Simpletesting-qa" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+    <img src="https://github.com/juanmanuel1912/playwright_api_automation" alt="postman"/>
   </a>
-  <a href="https://www.linkedin.com/in/juan-manuel-paredes-goicochea/" target="_blank">
+  <a href="https://github.com/juanmanuel1912/selenium-ecommerce/tree/master/src" target="_blank">
     <img src="https://img.shields.io/badge/Appium-6AB4F8?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
   </a>
-    <a href="https://www.youtube.com/@Simpletesting-qa" target="_blank">
+    <a href="https://github.com/juanmanuel1912/project2-cypress" target="_blank">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
   </a>
 </p>
